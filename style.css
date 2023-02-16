@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+table, td, th {
+    border: 2px solid black;
+    margin-top: 50px;
+    margin: 10px;
+    font-size: x-large;
+    border-collapse: collapse;
+    width: 15cm;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+td {
+    padding: 15px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: justify;
+    
+}
+
+.heading {
+    padding: 20px;
+    margin: 5px;
+    margin-left: 12%;
+}
+
+body {
+    text-align: ;
+    margin-left: 300px;
+}
+
+th {
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+}
